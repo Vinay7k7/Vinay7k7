@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinay__Kumar
-- 👀 I’m interested in learning Somthing New Ever single Day
+- 👀 I’m interested in learning Somthing New Every single Day
 - 🌱 I’m currently learning Programming in Python and Web-Development and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---7013731005---
