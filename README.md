@@ -1,5 +1,4 @@
-
-#👻 Hi and Welcome to my Github profile !
+# 👻 Hi and Welcome to my Github profile !
 - 👋 Hello, I’m @Vinay_Kumar!
 - 👀 I’m interested in learning New Things Every single Day
 - 🌱 I’m currently learning Programming in Python and Data Engineering 
