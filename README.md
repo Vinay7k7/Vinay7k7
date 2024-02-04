@@ -1,9 +1,10 @@
 
-- 👋 Hi, I’m @Vinay_Kumar!
+- 👻 Hi and Welcome to my Github profile !
+- 👋 Hello, I’m @Vinay_Kumar!
 - 👀 I’m interested in learning New Things Every single Day
-- 🌱 I’m currently learning Programming in Python and Web-Development and ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ---7013731005---
+- 🌱 I’m currently learning Programming in Python and Data Engineering 
+- 💞️ I’m looking forward make big change in this world !
+- 📫 How to reach me 7013731005
 - 📧 My email is kvk9110788277@gmail.com
 
 <!---
