@@ -1,12 +1,15 @@
+
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 <h1 align="center">👻 Hi and Welcome to my Github profile !</h1>
 
-###
+
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -125,11 +128,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
-###
 
 <h2 align="left">📊 GitHub Stats: -</h2>
-
-###
 
 <br clear="both">
 
@@ -139,35 +139,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay7k7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 <div align="center">
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-  <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
   
 </div>
-
-
-###
-
-
-<br clear="both">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vinay7k7/count.svg?"  />
 </div>
 
-###
