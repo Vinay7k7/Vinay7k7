@@ -1,34 +1,31 @@
 
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-<h1 align="center">👻 Hi and Welcome to my Github profile !</h1>
+<h1 align="center"> < 🧑‍💻 Hi and Welcome to my Github profile ⚙️ \> </h1>
 
-
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 
 
 <br clear="both">
 
-<p align="left">- 👋 Hello, I’m @Vinay_Kumar!<br>- 👀 I’m interested in learning New Things Every single Day<br>- 🌱 I’m currently learning Programming in Python and Data Engineering <br>- 💞️ I’m looking forward make big change in this world !<br>- 📫 How to reach me 7013731005<br>- 📧 My email is kvk9110788277@gmail.com</p>
+<p align="left">
+  👋 Hello, I’m @Vinay_Kumar!<br>
+  👀 I’m interested in learning New Things Every single Day !<br>
+  🌱 I’m currently Working as a Data Engineering !<br>
+  💞️ I’m looking forward to Work on ML and AI !<br>
+  📫 How to reach me 7013731005<br>
+  📧 My email is kvk9110788277@gmail.com</p>
 
 ###
 
 <h2 align="left">🌐 Socials: -</h2>
 
 ###
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Vinay_kumar) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knightkings77) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinaykumar77/) 
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
@@ -139,6 +136,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay7k7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 🏆 GitHub Trophies: -
+![](https://github-profile-trophy.vercel.app/?username=Vinay7k7&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+
+
+## ✍️ Random Dev Quote: -
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
+
 
 <div align="center">
   <img align="none" height="100" src="https://i.imgflip.com/65efzo.gif"  />
@@ -150,7 +158,8 @@
   
 </div>
 
-<picture>
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
