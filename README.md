@@ -169,3 +169,6 @@
   <img src="https://profile-counter.glitch.me/Vinay7k7/count.svg?"  />
 </div>
 
+<div align="center">
+  <img src="github-foundations.png" alt="GitHub Badge" width="25%" />
+</div>
